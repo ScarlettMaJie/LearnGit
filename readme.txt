@@ -8,7 +8,7 @@ git commit -m "wrote a readme file"
 查看仓库状态
 git status
 
-如果status有变化，查看具体变化
+如果status有变化，查看具体变化 （工作区和版本库里最新版本的区别）
 git diff
 
 
@@ -34,5 +34,8 @@ gitreflog
 版本库 (Repository) .git
 暂存区 (stage/ index) .git中
 
+3. 撤销修改
+
+5. 删除文件
 
 
