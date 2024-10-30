@@ -1,8 +1,8 @@
 -------版本库-------
-把文件添加到仓库
+把工作区的文件添加到暂存区
 git add readme.txt xxx.txt
 
-把文件提交到仓库
+把暂存区的所有内容提交到当前分支
 git commit -m "wrote a readme file"
 
 查看仓库状态
@@ -30,4 +30,9 @@ git log
 gitreflog
 
 2. 工作区和暂存区
+工作区 (Working Directory)
+版本库 (Repository) .git
+暂存区 (stage/ index) .git中
+
+
 
