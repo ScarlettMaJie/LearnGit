@@ -52,3 +52,7 @@ git rm readme.txt
 or
 git add readme.txt
 
+
+
+-------远程仓库-------
+
