@@ -56,4 +56,16 @@ git add readme.txt
 
 -------远程仓库-------
 -------分支管理-------
+查看分支
+$ git branch
 
+（创建并）切换分支
+$ git switch (-c) dev
+
+合并dev分支到当前分支
+$ git merge dev
+
+删除分支
+$ git branch -d dev
+
+Creating a new branch is quick & simple.
